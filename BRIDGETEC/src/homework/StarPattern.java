@@ -22,9 +22,6 @@ public class StarPattern {
         }
         List<Integer> numbers = new ArrayList<>();
 
-        numbers.add(3001)
-        for (int i = 10; i >= 1; i--) {
-            System.out.println(numbers[i]);
         }
     }
-}
+
