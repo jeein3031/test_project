@@ -1,7 +1,4 @@
 package homework;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
 
 public class StarPattern {
     public static void add() {
@@ -18,10 +15,6 @@ public class StarPattern {
                 System.out.print("*");
             }
             System.out.println();
-            
-        }
-        List<Integer> numbers = new ArrayList<>();
-
         }
     }
-
+}
